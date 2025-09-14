@@ -3,8 +3,8 @@ This project will guide you through the process of analyzing word frequencies in
 
 **Project Overview**
 
-**Objective
-**
+**Objective**
+
 The primary objective of this project is to analyze the frequency distribution of words in a given text corpus. This will include:
 1. Calculating basic statistics(mean,variance) of word frequencies.
 2. Visualizing the frequency distribution of common words.
